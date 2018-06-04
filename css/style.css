@@ -22,12 +22,12 @@ body {
       font-size: 16px; } }
 
 a {
-  color: #F75940;
+  color: #5065af;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #F75940;
+    color: #d5cb90;
     outline: none;
     text-decoration: none !important; }
 
@@ -285,12 +285,12 @@ figure {
           #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
             cursor: pointer;
             background: transparent;
-            border: 2px solid #F75940; }
+            border: 2px solid #282560; }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
       display: table;
-      opacity: 0;
+      opacity: 0.9;
       min-height: 500px;
       z-index: 9; }
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
