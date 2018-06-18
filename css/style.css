@@ -21,6 +21,9 @@ body {
     body {
       font-size: 16px; } }
 
+.raz-color-white{
+   color: white;
+}
 a {
   color: #5065af;
   -webkit-transition: 0.5s;
@@ -222,12 +225,12 @@ figure {
         display: inline;
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
-          color: rgba(0, 0, 0, 0.7);
+          color: #262262;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
             outline: none;
-            color: #F75940; }
+            color: #d4cb91; }
 
 #colorlib-main {
   width: 80%;
@@ -304,7 +307,7 @@ figure {
           bottom: 15px;
           left: 0;
           padding: 30px;
-          background: #fff; }
+          background: #282561; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
             text-align: center; } }
